@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7303C0,100:EC38BC&height=220&section=header&text=Surya%20Saketh%20Prattipati&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20and%20Problem%20Solver&descAlignY=55&descSize=17" width="100%" alt="header banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF2E97&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Surya+Saketh;Full+Stack+Web+Developer;React+and+Node.js+Enthusiast;DSA+and+Competitive+Programmer;Always+Building+Something+New" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=FF2E97&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Surya+Saketh;Full+Stack+Web+Developer;React+and+Node.js+Enthusiast;DSA+and+Competitive+Programmer;Always+Building+Something+New" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -64,13 +64,13 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/surya-saketh-prattipati-160779347/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:suryasaketh2007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://leetcode.com/u/Surya_saketh/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+ <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 </div>
@@ -90,10 +90,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+This is the current README.md for my github account and i want you to modify it and make it look aesthetic and professional and you can also add my portfolio website link into it "suryabuilds.vercel.app"
