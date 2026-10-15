@@ -8,7 +8,7 @@
        typing hands          : https://media.giphy.com/media/gRl82JKtOdzDr3m43F/giphy.gif
      ─────────────────────────────────────────────────────────────────────────── -->
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRjb3o5ZDU1czM0a3loNnUzb20xNGRmbXkwaWFnczk5bnBvMWE2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a90RWQguS2ywYcgKII/giphy.gif" width="100%" alt="Close-up of a flower bud" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVkMXNlZmR2dW41ZW51dW16NG0xNmVxZWk0OXZ6bHlmZDF3MzBocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gioLPAqDRZjzYpmuCp/giphy.gif" width="100%" alt="Close-up of a flower bud" />
 
 <br />
 
