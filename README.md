@@ -47,10 +47,10 @@ const surya = {
   stack     : {
     frontend : ["React", "Tailwind CSS", "HTML", "CSS"],
     backend  : ["Node.js", "Express", "Python"],
-    data     : ["MySQL", "Firebase"],
+    data     : ["MongoDB", "MySQL", "Firebase"],
     core     : ["Java", "Data Structures", "Algorithms"],
   },
-  shipping  : ["SmartApply", "Finance Dashboard", "24h Game Jam"],
+  shipping  : ["SmartApply", "Study Dungeon", "Finance Dashboard"],
   grinding  : "LeetCode, daily, in Java",
   learning  : ["System Design", "Clean Architecture", "AI-assisted product features"],
   open_to   : ["SWE internships", "Hackathon teams", "Freelance builds"],
@@ -67,7 +67,7 @@ const surya = {
 
 - Design and ship full-stack apps end to end
 - Build responsive, accessible React interfaces
-- Write REST APIs and model relational data
+- Write REST APIs and model relational + document data
 - Solve algorithmic problems in Java daily
 
 </td>
@@ -92,7 +92,7 @@ const surya = {
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,tailwind&theme=dark" alt="React, Node.js, Express, JavaScript, HTML, CSS, Tailwind" />
 <br />
-<img src="https://skillicons.dev/icons?i=java,python,mysql,firebase,git,github,vercel&theme=dark" alt="Java, Python, MySQL, Firebase, Git, GitHub, Vercel" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,firebase,git,github,vercel&theme=dark" alt="Java, Python, MySQL, MongoDB, Firebase, Git, GitHub, Vercel" />
 
 </div>
 
@@ -100,7 +100,7 @@ const surya = {
 | :--- | :--- |
 | **Frontend** | `React` · `Tailwind CSS` · `HTML5` · `CSS3` |
 | **Backend** | `Node.js` · `Express.js` · `Python` |
-| **Data** | `MySQL` · `Firebase` |
+| **Data** | `MongoDB` · `MySQL` · `Firebase` |
 | **Core CS** | `Java` · `DSA` · `OOP` · `Problem Solving` |
 | **Workflow** | `Git` · `GitHub` · `Vercel` · `VS Code` |
 
@@ -125,22 +125,22 @@ Full-stack resume builder that tailors resumes to a job description using the Ge
 </td>
 <td width="33%" valign="top">
 
+**Study Dungeon**
+
+`React` `Node.js` `MongoDB` `Gemini API`
+
+Turns study notes and lecture PDFs into a turn-based retro RPG where concepts are monsters. Deterministic server-side combat engine with anti-cheat grading, SHA-256 caching, and a parallel Gemini extraction pipeline.
+
+<a href="https://github.com/Surya-Saketh-P/Study_Dungeon">Code →</a>
+
+</td>
+<td width="33%" valign="top">
+
 **Finance Dashboard**
 
 `React` `State Management`
 
 Hackathon-built dashboard for visualizing personal finance data with a responsive, insight-first UI.
-
-<a href="https://suryabuilds.vercel.app">Live →</a>
-
-</td>
-<td width="33%" valign="top">
-
-**24h Game Jam**
-
-`Game Dev` `Teamwork`
-
-Playable game conceptualized, designed and shipped with a team inside a 24-hour hackathon window.
 
 <a href="https://suryabuilds.vercel.app">Live →</a>
 
