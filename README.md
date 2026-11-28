@@ -16,12 +16,12 @@
 
 **Full-Stack Developer · Problem Solver · CS Undergrad**
 
-<a href="https://suryabuilds.vercel.app">
+<a href="https://suryabuilds.com">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=C9D1D9&center=true&vCenter=true&width=560&height=36&lines=Shipping+full-stack+apps+with+React+%26+Node.js;Grinding+DSA+in+Java%2C+one+problem+at+a+time;Clean+architecture+%3E+clever+hacks" alt="Animated tagline" />
 </a>
 
 <p>
-<a href="https://suryabuilds.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://suryabuilds.com"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/surya-saketh-prattipati-160779347/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/Surya_saketh/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 <a href="mailto:suryasaketh2007@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
