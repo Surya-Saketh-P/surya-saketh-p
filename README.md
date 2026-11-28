@@ -55,7 +55,7 @@ const surya = {
   learning  : ["System Design", "Clean Architecture", "AI-assisted product features"],
   open_to   : ["SWE internships", "Hackathon teams", "Freelance builds"],
   believes  : "readable code ships faster than clever code",
-  reachMe   : "https://suryabuilds.vercel.app",
+  reachMe   : "https://suryabuilds.com",
 };
 ```
 
