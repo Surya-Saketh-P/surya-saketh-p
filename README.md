@@ -142,7 +142,7 @@ Turns study notes and lecture PDFs into a turn-based retro RPG where concepts ar
 
 Hackathon-built dashboard for visualizing personal finance data with a responsive, insight-first UI.
 
-<a href="https://suryabuilds.vercel.app">Live →</a>
+<a href="https://suryabuilds.com">Live →</a>
 
 </td>
 </tr>
