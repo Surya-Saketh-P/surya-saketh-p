@@ -148,7 +148,7 @@ Hackathon-built dashboard for visualizing personal finance data with a responsiv
 </tr>
 </table>
 
-More work, case studies and my resume live on **[suryabuilds.vercel.app](https://suryabuilds.vercel.app)**.
+More work, case studies and my resume live on **[suryabuilds.com](https://suryabuilds.com)**.
 
 ---
 
@@ -205,7 +205,7 @@ More work, case studies and my resume live on **[suryabuilds.vercel.app](https:/
 
 Got an idea, a role, or a bug worth arguing about? My inbox is open.
 
-<a href="https://suryabuilds.vercel.app"><img src="https://img.shields.io/badge/Visit%20Portfolio-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
+<a href="https://suryabuilds.com"><img src="https://img.shields.io/badge/Visit%20Portfolio-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
 <a href="mailto:suryasaketh2007@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-161B22?style=flat-square&logo=gmail&logoColor=white" alt="Email Surya" /></a>
 <a href="https://www.linkedin.com/in/surya-saketh-prattipati-160779347/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/Surya_saketh/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
